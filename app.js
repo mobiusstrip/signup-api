@@ -71,4 +71,10 @@ app.listen(process.env.PORT || 3000, function() {
 
 
 
-// list id
+/*process.env.PORT is for heroku means variable port chosen by heroku
+procfile is for the initiation web : node app.js
+git.init in folder
+git add .
+git commit m-"first commit"
+heroku create
+git push heroku master*/
